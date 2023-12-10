@@ -2,11 +2,6 @@
 
 A simple stopwatch app built with HTML, CSS, and Vanilla JavaScript.
 
-## Demo
-
-- [Live Demo](https://your-hosted-link.com)
-- [YouTube Demo](https://your-youtube-link.com)
-
 ## Features
 
 - Start, stop, and reset functionality for the stopwatch.
@@ -17,13 +12,13 @@ A simple stopwatch app built with HTML, CSS, and Vanilla JavaScript.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/raza-altaf/stopwatch
 ```
 
 2. Open the project folder:
 
 ```bash
-cd your-repo
+cd stopwatch
 ```
 
 3. Open `index.html` in your web browser.
@@ -33,3 +28,7 @@ cd your-repo
 - Click the "Start" button to begin the stopwatch.
 - Click the "Stop" button to pause the stopwatch.
 - Click the "Reset" button to reset the stopwatch to zero.
+
+## Contribution
+
+Contributions are welcome! If you find a bug or have an idea for an improvement, feel free to open an issue or submit a pull request.
